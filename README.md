@@ -2,11 +2,8 @@
 # ascii arrows
 # jessie.moe@email.phoenix.edu
 
-# Going to try to get version control and flow with GitHub.
+# Practice version control and push/pull with GitHub.
 # Drawing ASCII arrows
 # Updates will be listed in README.md
 
-# Arrows_0.0.2
-#   added another arrow 
-#   created functions arrows
-#   updated comments
+# Arrows_0.0.2          added: 02/21/2024 by: Jessie Moe
