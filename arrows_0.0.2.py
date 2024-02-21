@@ -1,4 +1,8 @@
-def one_arrow():   
+# Displays a simple arrow in astericks.
+# by: Jessie Moe
+# email: jessie.moe@email.phoenix.edu
+
+def one_arrow():
     print("    *")
     print("   * *")
     print("  *   *")
@@ -7,6 +11,8 @@ def one_arrow():
     print("  *   *")
     print("  *   *")
     print("  *****")
+    
+# Easy way to double my arrows
     
 def two_arrows():
     print("    *            " * 2)
