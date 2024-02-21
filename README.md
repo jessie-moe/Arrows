@@ -5,3 +5,8 @@
 # Going to try to get version control and flow with GitHub.
 # Drawing ASCII arrows
 # Updates will be listed in README.md
+
+# Arrows_0.0.2
+#   added another arrow 
+#   created functions arrows
+#   updated comments
